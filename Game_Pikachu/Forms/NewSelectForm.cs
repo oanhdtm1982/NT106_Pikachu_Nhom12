@@ -13,7 +13,7 @@ namespace Game_Pikachu
 {
     public partial class NewSelectForm : Form
     {
-        Sounds sound2 = new Sounds(@"C:\Users\levan\Desktop\Pikachu\Game_Pikachu\Sounds and img Sounds\Content\101-opening (online-audio-converter.com).wav");
+        Sounds sound2 = new Sounds("");
         int i_sounds2 = 1;
         public NewSelectForm()
         {
