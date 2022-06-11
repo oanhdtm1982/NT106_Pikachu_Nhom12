@@ -14,7 +14,8 @@ namespace Game_Pikachu
 {
     public partial class PlayForm : Form
     {
-        Sounds sound = new Sounds("");
+        //file nhạc phải nằm trong C:\
+        Sounds sound = new Sounds(@"C:\Users\THUY\Documents\Đồ án lập trình mạng\Game_Pikachu\Sounds and img Sounds\Content\102-palette town theme.mp3");
         int i_sounds = 1;
         public PlayForm()
         {
@@ -49,6 +50,7 @@ namespace Game_Pikachu
         private void buttonExit_Click(object sender, EventArgs e)
         {
             this.Close();
+
         }
 
         // Play again

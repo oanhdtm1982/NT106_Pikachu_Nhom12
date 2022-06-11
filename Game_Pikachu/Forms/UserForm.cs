@@ -13,7 +13,8 @@ namespace Game_Pikachu
 {
     public partial class UserForm : Form
     {
-        Sounds sound1 = new Sounds(@"C:\Users\trant\Downloads\Edge\Pikachu-master\Game_Pikachu\Sounds and img Sounds\Content\102-palette town theme.mp3");
+        //file nhạc phải nằm trong C:\
+        Sounds sound1 = new Sounds(@"C:\Users\THUY\Documents\Đồ án lập trình mạng\Game_Pikachu\Sounds and img Sounds\Content\102-palette town theme.mp3");
         int i_sounds1 = 1;
         public UserForm()
         {
