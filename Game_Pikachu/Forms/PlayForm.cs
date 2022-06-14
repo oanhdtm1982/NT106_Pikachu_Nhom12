@@ -29,6 +29,11 @@ namespace Game_Pikachu
         private void timer_Tick(object sender, EventArgs e)
         {
             progressBarTime.PerformStep();
+            if(progressBarTime.Value == progressBarTime.Maximum)
+            {
+                this.Close();
+                MessageBox.Show("Finish");
+            }    
            
         }
         private void PlayForm_Load(object sender, EventArgs e)

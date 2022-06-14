@@ -147,6 +147,7 @@
             // 
             // timer
             // 
+            this.timer.Enabled = true;
             this.timer.Tick += new System.EventHandler(this.timer_Tick);
             // 
             // panelContainIcon
@@ -187,7 +188,7 @@
             this.pictureBox1.BackgroundImage = global::Game_Pikachu.Properties.Resources.mute;
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.pictureBox1.Location = new System.Drawing.Point(24, 12);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(75, 41);
             this.pictureBox1.TabIndex = 14;
