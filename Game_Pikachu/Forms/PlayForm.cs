@@ -14,7 +14,7 @@ namespace Game_Pikachu
 {
     public partial class PlayForm : Form
     {
-        Sounds sound = new Sounds("");
+        Sounds sound = new Sounds(AppDomain.CurrentDomain.BaseDirectory + "//Sounds and img Sounds//Content//102-palette town theme.mp3");
         int i_sounds = 1;
         public PlayForm()
         {
