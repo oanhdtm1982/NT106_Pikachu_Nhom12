@@ -43,6 +43,8 @@ namespace Game_Pikachu
         private void buttonGuide_Click(object sender, EventArgs e)
         {
             buttonGuide.Visible = false;
+            Form b1 = new Guide();
+            b1.ShowDialog();
         }
         #endregion
 
