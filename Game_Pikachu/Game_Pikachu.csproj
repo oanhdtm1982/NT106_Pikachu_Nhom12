@@ -53,6 +53,12 @@
     <Compile Include="Forms\NewSelectForm.Designer.cs">
       <DependentUpon>NewSelectForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Guide.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Guide.Designer.cs">
+      <DependentUpon>Guide.cs</DependentUpon>
+    </Compile>
     <Compile Include="PlayViewProcess\InitialProcessEvent.cs" />
     <Compile Include="PlayViewProcess\PanelContainIcon.cs" />
     <Compile Include="Forms\PlayForm.cs">
@@ -77,6 +83,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\PlayForm.resx">
       <DependentUpon>PlayForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Guide.resx">
+      <DependentUpon>Guide.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -184,6 +193,8 @@
     <Content Include="Resources\4.png" />
     <Content Include="Resources\5.png" />
     <None Include="Resources\mute.png" />
+    <None Include="Resources\pikachu.png" />
+    <None Include="Resources\pikachu1.png" />
     <Content Include="Sounds and img Sounds\Content\101-opening %28online-audio-converter.com%29.wav" />
     <Content Include="Sounds and img Sounds\Content\102-palette town theme.mp3" />
     <Content Include="Sounds and img Sounds\Content\mute %281%29.png" />
