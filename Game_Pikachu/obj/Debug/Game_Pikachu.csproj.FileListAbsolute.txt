@@ -13,6 +13,27 @@ C:\Users\trant\Downloads\Edge\Pikachu-master\Game_Pikachu\obj\Debug\Game_Pikachu
 C:\Users\trant\Downloads\Edge\Pikachu-master\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.CoreCompileInputs.cache
 C:\Users\trant\Downloads\Edge\Pikachu-master\Game_Pikachu\obj\Debug\Game_Pikachu.exe
 C:\Users\trant\Downloads\Edge\Pikachu-master\Game_Pikachu\obj\Debug\Game_Pikachu.pdb
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+C:\Users\trant\Downloads\NT106_Pikachu_Nhom12\Game_Pikachu\bin\Debug\Game_Pikachu.exe.config
+C:\Users\trant\Downloads\NT106_Pikachu_Nhom12\Game_Pikachu\bin\Debug\Game_Pikachu.exe
+C:\Users\trant\Downloads\NT106_Pikachu_Nhom12\Game_Pikachu\bin\Debug\Game_Pikachu.pdb
+C:\Users\trant\Downloads\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.AssemblyReference.cache
+C:\Users\trant\Downloads\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.SuggestedBindingRedirects.cache
+C:\Users\trant\Downloads\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Interop.WMPLib.dll
+C:\Users\trant\Downloads\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.ResolveComReference.cache
+C:\Users\trant\Downloads\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.NewSelectForm.resources
+C:\Users\trant\Downloads\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.PlayForm.resources
+C:\Users\trant\Downloads\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.Properties.Resources.resources
+C:\Users\trant\Downloads\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.UserForm.resources
+C:\Users\trant\Downloads\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.GenerateResource.cache
+C:\Users\trant\Downloads\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.CoreCompileInputs.cache
+C:\Users\trant\Downloads\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.exe
+C:\Users\trant\Downloads\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.pdb
+=======
+>>>>>>> e6be2c6b29ef34a90cdc1cb8184a47f86841d48c
 C:\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.AssemblyReference.cache
 C:\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.ResolveComReference.cache
 C:\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.NewSelectForm.resources
@@ -27,6 +48,7 @@ C:\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\bin\Debug\Game_Pikachu.exe.config
 C:\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\bin\Debug\Game_Pikachu.exe
 C:\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\bin\Debug\Game_Pikachu.pdb
 C:\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Interop.WMPLib.dll
+<<<<<<< HEAD
 C:\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.SelectPlayer.resources
 C:\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.Connect.resources
 C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy\Game_Pikachu\bin\Debug\Game_Pikachu.exe.config
@@ -86,3 +108,40 @@ C:\Users\trant\Downloads\Edge\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_P
 C:\Users\trant\Downloads\Edge\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.CoreCompileInputs.cache
 C:\Users\trant\Downloads\Edge\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.exe
 C:\Users\trant\Downloads\Edge\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.pdb
+=======
+E:\NT006\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\bin\Debug\Game_Pikachu.exe.config
+E:\NT006\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\bin\Debug\Game_Pikachu.exe
+E:\NT006\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\bin\Debug\Game_Pikachu.pdb
+E:\NT006\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.AssemblyReference.cache
+E:\NT006\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.SuggestedBindingRedirects.cache
+E:\NT006\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Interop.WMPLib.dll
+E:\NT006\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.ResolveComReference.cache
+E:\NT006\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.NewSelectForm.resources
+E:\NT006\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.PlayForm.resources
+E:\NT006\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.Properties.Resources.resources
+E:\NT006\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.UserForm.resources
+E:\NT006\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.GenerateResource.cache
+E:\NT006\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.CoreCompileInputs.cache
+E:\NT006\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.exe
+E:\NT006\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.pdb
+E:\NT006\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.Guide.resources
+>>>>>>> origin/HuongDan
+=======
+C:\Users\THUY\Documents\Đồ án 2\Game_Pikachu\bin\Debug\Game_Pikachu.exe.config
+C:\Users\THUY\Documents\Đồ án 2\Game_Pikachu\bin\Debug\Game_Pikachu.exe
+C:\Users\THUY\Documents\Đồ án 2\Game_Pikachu\bin\Debug\Game_Pikachu.pdb
+C:\Users\THUY\Documents\Đồ án 2\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.AssemblyReference.cache
+C:\Users\THUY\Documents\Đồ án 2\Game_Pikachu\obj\Debug\Interop.WMPLib.dll
+C:\Users\THUY\Documents\Đồ án 2\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.ResolveComReference.cache
+C:\Users\THUY\Documents\Đồ án 2\Game_Pikachu\obj\Debug\Game_Pikachu.NewSelectForm.resources
+C:\Users\THUY\Documents\Đồ án 2\Game_Pikachu\obj\Debug\Game_Pikachu.PlayForm.resources
+C:\Users\THUY\Documents\Đồ án 2\Game_Pikachu\obj\Debug\Game_Pikachu.Properties.Resources.resources
+C:\Users\THUY\Documents\Đồ án 2\Game_Pikachu\obj\Debug\Game_Pikachu.UserForm.resources
+C:\Users\THUY\Documents\Đồ án 2\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.GenerateResource.cache
+C:\Users\THUY\Documents\Đồ án 2\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.CoreCompileInputs.cache
+C:\Users\THUY\Documents\Đồ án 2\Game_Pikachu\obj\Debug\Game_Pikachu.exe
+C:\Users\THUY\Documents\Đồ án 2\Game_Pikachu\obj\Debug\Game_Pikachu.pdb
+C:\Users\THUY\Documents\Đồ án 2\Game_Pikachu\bin\Debug\Sounds and img Sounds\Content\101-opening (online-audio-converter.com).wav
+C:\Users\THUY\Documents\Đồ án 2\Game_Pikachu\bin\Debug\Sounds and img Sounds\Content\102-palette town theme.mp3
+>>>>>>> origin/update_am_thanh
+>>>>>>> e6be2c6b29ef34a90cdc1cb8184a47f86841d48c

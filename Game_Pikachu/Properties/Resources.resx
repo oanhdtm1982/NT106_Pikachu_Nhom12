@@ -283,7 +283,12 @@
   <data name="31" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\31.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+<<<<<<< HEAD
   <data name="pngtree-blue-flat-universe-planet-starry-sky-main-map-image_186875" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pngtree-blue-flat-universe-planet-starry-sky-main-map-image_186875.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+=======
+  <data name="pikachu1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pikachu1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+>>>>>>> e6be2c6b29ef34a90cdc1cb8184a47f86841d48c
   </data>
 </root>

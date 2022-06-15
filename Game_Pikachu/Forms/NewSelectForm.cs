@@ -39,11 +39,17 @@ namespace Game_Pikachu
         #region Click to Button Guide
         private void buttonGuide_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             //buttonGuide.Visible = false;
             Instruction inst = new Instruction();
             inst.Show();
 
 
+=======
+            buttonGuide.Visible = false;
+            Form b1 = new Guide();
+            b1.ShowDialog();
+>>>>>>> e6be2c6b29ef34a90cdc1cb8184a47f86841d48c
         }
         #endregion
 
