@@ -8,7 +8,7 @@
     <OutputType>WinExe</OutputType>
     <RootNamespace>Game_Pikachu</RootNamespace>
     <AssemblyName>Game_Pikachu</AssemblyName>
-    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
@@ -47,11 +47,27 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Connect.cs" />
+    <Compile Include="Connect.Designer.cs">
+      <DependentUpon>Connect.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\NewSelectForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Forms\NewSelectForm.Designer.cs">
       <DependentUpon>NewSelectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Instruction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Instruction.Designer.cs">
+      <DependentUpon>Instruction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Playformwith_1player.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Playformwith_1player.Designer.cs">
+      <DependentUpon>Playformwith_1player.cs</DependentUpon>
     </Compile>
     <Compile Include="PlayViewProcess\InitialProcessEvent.cs" />
     <Compile Include="PlayViewProcess\PanelContainIcon.cs" />
@@ -71,12 +87,29 @@
     <Compile Include="Forms\UserForm.Designer.cs">
       <DependentUpon>UserForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="SelectPlayer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectPlayer.Designer.cs">
+      <DependentUpon>SelectPlayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SocketData.cs" />
+    <Compile Include="SocketManager.cs" />
     <Compile Include="Sounds and img Sounds\Sounds.cs" />
+    <EmbeddedResource Include="Connect.resx">
+      <DependentUpon>Connect.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\NewSelectForm.resx">
       <DependentUpon>NewSelectForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\PlayForm.resx">
       <DependentUpon>PlayForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Instruction.resx">
+      <DependentUpon>Instruction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Playformwith_1player.resx">
+      <DependentUpon>Playformwith_1player.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -85,6 +118,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\UserForm.resx">
       <DependentUpon>UserForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectPlayer.resx">
+      <DependentUpon>SelectPlayer.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -184,8 +220,14 @@
     <Content Include="Resources\4.png" />
     <Content Include="Resources\5.png" />
     <None Include="Resources\mute.png" />
-    <Content Include="Sounds and img Sounds\Content\101-opening %28online-audio-converter.com%29.wav" />
-    <Content Include="Sounds and img Sounds\Content\102-palette town theme.mp3" />
+    <None Include="Resources\pikachu.png" />
+    <None Include="Resources\pngtree-blue-flat-universe-planet-starry-sky-main-map-image_186875.jpg" />
+    <Content Include="Sounds and img Sounds\Content\101-opening %28online-audio-converter.com%29.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Sounds and img Sounds\Content\102-palette town theme.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Content Include="Sounds and img Sounds\Content\mute %281%29.png" />
     <Content Include="Sounds and img Sounds\Content\mute.png" />
     <None Include="Resources\exit.png" />
