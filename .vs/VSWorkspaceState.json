@@ -1,8 +1,14 @@
 {
   "ExpandedNodes": [
     "",
+<<<<<<< HEAD
     "\\Game_Pikachu",
     "\\Images"
   ],
+=======
+    "\\Game_Pikachu"
+  ],
+  "SelectedNode": "\\Game_Pikachu\\Game_Pikachu.csproj",
+>>>>>>> origin/update_am_thanh
   "PreviewInSolutionExplorer": false
 }
